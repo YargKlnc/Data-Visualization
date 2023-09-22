@@ -46,4 +46,4 @@ This assignment is broken down into the following tasks:
     - A Plot is generated on top of the previous scatter plot for the linear regression model 
 
 •	Final analysis.
-  - Observations and inferences
+    - Observations and inferences
