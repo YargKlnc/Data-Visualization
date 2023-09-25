@@ -2,7 +2,20 @@
 Pymaceuticals Inc., a pharmaceutical company that specializes in anti-cancer medications. Recently, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer. 
 Access given to complete data of most recent animal study. In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. 
 Timeline of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of their drug; Capomulin against other drug treatment regimens.
+
 All of the tables and figures were generated for the technical report of the clinical study besides the summary of the study results.
+
+An Output folder added to easily obtain visuals of:
+    - summary statistics csv
+    
+    - number of mouse per treatment summary statistics bar chart using pandas
+    
+    - number of mouse per treatment summary statistics bar chart using pyplot
+    
+    - subject distribution female vs male pie chart using pandas
+    
+    - subject distribution female vs male pie chart using pyplot 
+
 
 Instructions of this work:
 This assignment is broken down into the following tasks:
