@@ -6,6 +6,7 @@ Timeline of 45 days, tumor development was observed and measured. The purpose of
 All of the tables and figures were generated for the technical report of the clinical study besides the summary of the study results.
 
 An Output folder added to easily obtain visuals of:
+
     - summary statistics csv
     
     - number of mouse per treatment summary statistics bar chart using pandas
