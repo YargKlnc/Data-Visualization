@@ -29,6 +29,8 @@ An Output folder added to easily obtain visuals of:
 
     - tumor volume vs timepoint for mouse b128 treated with Capomulin
 
+    - mouse weight vs average observed tumor volume for entire capomulin treatment
+
 
 Instructions of this work:
 This assignment is broken down into the following tasks:
