@@ -17,6 +17,18 @@ An Output folder added to easily obtain visuals of:
     
     - subject distribution female vs male pie chart using pyplot 
 
+    - aggregation summary statistics csv
+
+    - final tumor volume by treatment group outliers
+
+    - tumor a203 treatment csv
+
+    - tumor volume vs timepoint for mouse a203 treated with Infubinol
+
+    - tumor b128 treatment csv
+
+    - tumor volume vs timepoint for mouse b128 treated with Capomulin
+
 
 Instructions of this work:
 This assignment is broken down into the following tasks:
