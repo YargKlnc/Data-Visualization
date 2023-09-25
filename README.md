@@ -29,7 +29,9 @@ An Output folder added to easily obtain visuals of:
 
     - tumor volume vs timepoint for mouse b128 treated with Capomulin
 
-    - mouse weight vs average observed tumor volume for entire capomulin treatment
+    - mouse weight vs average observed tumor volume for entire Capomulin treatment
+
+    - linear regression for mouse weight vs average observed tumor volume for entire Capomulin treatment
 
 
 Instructions of this work:
