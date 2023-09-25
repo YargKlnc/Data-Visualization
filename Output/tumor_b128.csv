@@ -1,0 +1,11 @@
+,Mouse ID,Drug,Gender,Age (months),Weight (g),Timepoint (days),Tumor Vol (mm3)
+300,b128,Capomulin,Female,9,22,0,45.0
+301,b128,Capomulin,Female,9,22,5,45.65133131
+302,b128,Capomulin,Female,9,22,10,43.2708519
+303,b128,Capomulin,Female,9,22,15,43.78489343
+304,b128,Capomulin,Female,9,22,20,42.731552
+305,b128,Capomulin,Female,9,22,25,43.26214483
+306,b128,Capomulin,Female,9,22,30,40.60533486
+307,b128,Capomulin,Female,9,22,35,37.96764437
+308,b128,Capomulin,Female,9,22,40,38.3797259
+309,b128,Capomulin,Female,9,22,45,38.98287774

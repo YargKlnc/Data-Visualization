@@ -1,0 +1,11 @@
+,Mouse ID,Drug,Gender,Age (months),Weight (g),Timepoint (days),Tumor Vol (mm3)
+454,a203,Infubinol,Female,20,23,0,45.0
+455,a203,Infubinol,Female,20,23,5,48.5084684
+456,a203,Infubinol,Female,20,23,10,51.8524372
+457,a203,Infubinol,Female,20,23,15,52.7778705
+458,a203,Infubinol,Female,20,23,20,55.17333648
+459,a203,Infubinol,Female,20,23,25,56.79320832
+460,a203,Infubinol,Female,20,23,30,59.52319728
+461,a203,Infubinol,Female,20,23,35,61.93165007
+462,a203,Infubinol,Female,20,23,40,63.59349002
+463,a203,Infubinol,Female,20,23,45,67.97341878
